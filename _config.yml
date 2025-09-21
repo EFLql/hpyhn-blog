@@ -105,3 +105,10 @@ deploy:
   type: ''
 
 favicon: /favicon.png
+
+sitemap:
+  path: sitemap.xml
+  # template: ./sitemap_template.xml # 通常不需要修改
+  rel: false
+  tags: true
+  categories: true
