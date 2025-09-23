@@ -11,6 +11,9 @@ author: liqilin
 language: en
 timezone: ''
 
+footer:
+  custom_text: '<a href="https://hpyhn.xyz/" rel="noopener" target="_blank">HPYHN</a>'
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://hpyhn.xyz/blog
