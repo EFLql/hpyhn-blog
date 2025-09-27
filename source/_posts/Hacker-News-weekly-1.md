@@ -1,7 +1,7 @@
 ---
 title: I analyzed the Hacker News hive mind. Here are 5 fascinating things I learned this week.
 date: 2025-09-21 15:45:41
-tags: HackerNews
+tags: Hacker-News-today
 ---
 Hey folks!
 

@@ -1,7 +1,7 @@
 ---
 title: Hacker-News-daily-2025-09-23
 date: 2025-09-24 14:29:53
-tags: Hacker News daily
+tags: Hacker-News-today
 ---
 1. [Spectral Labs releases SGS-1: the first generative model for structured CAD](https://www.spectrallabs.ai/research/SGS-1)
 

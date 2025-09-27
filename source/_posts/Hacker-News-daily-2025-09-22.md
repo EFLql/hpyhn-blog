@@ -1,7 +1,7 @@
 ---
 title: Hacker News daily 2025-09/22
 date: 2025-09-22 17:40:24
-tags: HackerNews  daily
+tags: Hacker-News-today
 ---
 
 1. [Scammed out of $130K via fake Google call, spoofed Google email and auth sync](https://bewildered.substack.com/p/i-was-scammed-out-of-130000-and-google)

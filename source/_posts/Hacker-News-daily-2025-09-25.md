@@ -1,7 +1,7 @@
 ---
 title: Hacker-News-daily-2025-09-25
 date: 2025-09-26 15:44:02
-tags:
+tags: Hacker-News-today
 ---
 {% asset_img 2025-09-26-daily.png %}
 
